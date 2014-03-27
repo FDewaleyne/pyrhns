@@ -1,10 +1,8 @@
 rhns-libs
 =========
 
-a library that uses extensively the satellite api to make it easier to do complex operations.
+A collection of the classes I have created for rhns-utils originally to one to handle allow complex operations on satelllite 5. Requires python 2.6 minimum to run
 
------
-This is a collection of the classes I have created for rhns-utils and I will continue to extend this then integrate it in other projects. 
------
 
-These scripts require python 2.6 minimum to run 
+
+
