@@ -3,7 +3,7 @@
 # this part handles the connector class.
 
 #connection class
-class RHNSConnection:
+class Connector:
 
     username = None
     host = None
